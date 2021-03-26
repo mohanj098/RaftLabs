@@ -4,3 +4,7 @@ This Application is based on MERN stack, I have made backend using Nodejs and Ex
 
 ### AWS
 If the app was accepting 1M requests every day we could use AWS lamda.
+
+
+### Limitaion
+1. Names are case sensitive i.e Rocky and rocky are different.
